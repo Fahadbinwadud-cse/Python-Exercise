@@ -10,4 +10,3 @@ fishes_list = ['Grass carp','ilish']
 my_items.update(fishes_list)
 print(type(my_items))
 print(my_items)
-
